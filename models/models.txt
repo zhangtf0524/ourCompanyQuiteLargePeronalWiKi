@@ -1,0 +1,3 @@
+whisper https://huggingface.co/openai/whisper-large-v3
+sentence_model https://huggingface.co/shibing624/text2vec-base-chinese 
+chinese-clip-vit-huge-patch14 https://huggingface.co/OFA-Sys/chinese-clip-vit-huge-patch14
