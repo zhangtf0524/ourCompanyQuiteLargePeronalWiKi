@@ -10,6 +10,9 @@
 
 4. Install requirements.txt
 
-5. Start backend and frontend
+5. Start backend by running
+   
+   cd apis/
+   uvicorn main_app:app --reload
 
-6. RUN!
+7. RUN!
