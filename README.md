@@ -16,4 +16,4 @@
    uvicorn main_app:app --reload 
    ```
 
-7. Go to localhost/docs
+7. Go to http://localhost/docs
